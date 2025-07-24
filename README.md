@@ -9,79 +9,88 @@
 
 ## 🧑‍💻 About Me
 
-I’m a versatile data professional with **2+ years of experience** working across **Data Engineering**, **Data Science**, and **Data Analytics** domains. My work spans across building scalable ETL pipelines, designing AI-powered applications, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
+I’m a versatile data professional with **2+ years of experience** working across **Data Engineering**, **Data Science**, and **Data Analytics** domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
 
-With a strong foundation in Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure), I take pride in transforming raw data into powerful tools for business and research—especially in fast-paced, data-driven environments.
+With strong foundations in **Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure)**, I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧊 Avalanche Analytics – End-to-End Data Engineering & Analytics Platform
+### 🧊 Avalanche Analytics – End-to-End Data Engineering & Analytics Platform  
 **Roles:** Data Engineer | Data Analyst | Data Scientist  
-- Built a scalable ETL and analytics pipeline using **AWS S3**, **Snowflake**, and **Snowpark**.
-- Modeled delivery logistics, order fulfillment, and sentiment analysis pipelines.
-- Automated reporting workflows using **Snowflake Tasks** for real-time metrics.
-
+- Built scalable ETL pipelines using **AWS S3**, **Snowflake**, and **Snowpark**.  
+- Modeled delivery logistics, order fulfillment, and sentiment analysis pipelines.  
+- Automated reporting workflows using **Snowflake Tasks** to enable real-time insights.
 
 ---
 
-### 🤖 LangChain + Streamlit Chatbot for Data Exploration
+### 🤖 LangChain + Streamlit Chatbot for Data Exploration  
 **Roles:** Data Scientist | Data Analyst | ML Developer  
-- Built an **LLM-powered chatbot** using **LangChain** + **Streamlit** that translates natural language into **SQL queries**.
-- Enabled data visualization via **Matplotlib** and **Plotly** to explore datasets without needing code.
-- Reduced dependency on engineering teams for ad-hoc insights.
-
-
----
-
-### 📚 Simple RAG Pipeline – Local Retrieval-Augmented Generation System
-**Role:** Data Engineer | AI Engineer  
-- Designed a local RAG pipeline using **Ollama**, **LLaMA3**, and **LanceDB** for secure, offline document Q&A.
-- Modular architecture supporting document ingestion, embedding, and querying.
-- Built CLI for document uploads, semantic search, and performance evaluation.
-
+- Built an **LLM-powered chatbot** using **LangChain** and **Streamlit** to convert natural language to **SQL queries**.  
+- Enabled data visualization with **Matplotlib** and **Plotly** for code-free exploration.  
+- Reduced ad-hoc workload for engineering teams by empowering non-technical users.
 
 ---
 
-### 📊 Water Quality Sensor Data Dashboard (Power BI)
+### 📚 Simple RAG Pipeline – Local Retrieval-Augmented Generation System  
+**Roles:** Data Engineer | AI Engineer  
+- Designed a local **RAG pipeline** using **Ollama**, **LLaMA3**, and **LanceDB** for offline document-based Q&A.  
+- Built modular components for indexing, embedding, querying, and response generation.  
+- Developed CLI for loading documents, querying knowledge base, and performance evaluation.
+
+---
+
+### 📊 Water Quality Sensor Data Dashboard (Power BI)  
 **Role:** Data Analyst  
-- Analyzed 1M+ rows of environmental data across 39 countries.
-- Designed an executive dashboard in **Power BI** using DAX, slicers, drill-throughs, and storytelling visuals.
-- Supported sustainability compliance reporting with WQI-based monitoring.
-
+- Analyzed 1M+ rows of sensor data from 39 European countries.  
+- Built a **Power BI dashboard** with slicers, drill-throughs, and WQI indicators for environmental compliance.  
+- Automated reporting using DAX-based calculated fields and storytelling visualizations.
 
 ---
 
-### 📈 Insurance Premium Forecasting with XGBoost
+### 📈 Insurance Premium Forecasting with XGBoost  
 **Role:** Data Scientist  
-- Applied **XGBoost** with **BayesSearchCV** to predict charges based on demographics and health factors.
-- Performed rigorous statistical testing (ANOVA, chi-square) and EDA.
-- Presented model outputs to business stakeholders for pricing strategies.
+- Performed **EDA, ANOVA, and chi-square tests** to identify drivers of insurance costs.  
+- Trained and tuned **XGBoost Regressor** using **BayesSearchCV** and `Pipeline` API.  
+- Achieved high predictive accuracy with explainable model insights for premium pricing.
 
+---
+
+### ⏳ Time Series Forecasting – Seasonal & Non-Seasonal (MA641 Capstone)  
+**Role:** Data Scientist | Time Series Analyst  
+- Forecasted **electric car sales** using **ARIMA(2,2,2)** and **Yahoo stock prices** using **ARIMA(5,1,2)** models.  
+- Applied **time series decomposition**, **ADF test**, and **Ljung-Box residual checks**.  
+- Built plots with **forecast confidence intervals**, RMSE < 27k and MAPE ~0.5%.  
+- Tools: **R (forecast, tseries, ggplot2, tidyverse)**, time series transformations, and differencing.
 
 ---
 
 ## 🛠️ Skills Snapshot
 
 - **Languages & Tools**: Python, SQL, R, Shell, Git, Jupyter, REST APIs  
-- **Data Engineering**: Spark, Airflow, Hive, Snowflake, Databricks, AWS Glue, Redshift  
-- **Analytics & BI**: Power BI, Tableau, Alteryx, Looker  
-- **Machine Learning**: scikit-learn, XGBoost, SVM, Regression, Clustering, Time Series  
-- **Cloud**: AWS (Glue, S3, Lambda), GCP (BigQuery, Vertex AI), Azure (Data Factory, ML)  
-- **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Vector DBs  
-- **MLOps & DevOps**: Docker, CI/CD, Version Control, Model Monitoring
+- **Data Engineering**: PySpark, Airflow, Hive, Snowflake, Databricks, AWS Glue, Redshift  
+- **Analytics & BI**: Power BI, Tableau, Alteryx, Looker, KPI Tracking  
+- **Machine Learning**: scikit-learn, XGBoost, SVM, Clustering, PCA, Regression, Time Series  
+- **AI & LLMs**: GPT-4, LangChain, Prompt Engineering, AI Agents, RAG, NLP  
+- **Cloud Platforms**: AWS (S3, Glue, Lambda, SageMaker, Redshift),  
+  GCP (BigQuery, Vertex AI), Azure (Data Factory, ML, Synapse)  
+- **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Vector DBs (LanceDB)  
+- **MLOps & DevOps**: Docker, CI/CD, GitHub Actions, Model Monitoring, Version Control  
 
 ---
 
 ## 📌 Let's Connect
 
-I'm actively exploring full-time roles in **Data Engineering**, **Data Analytics**, and **Data Science**. Whether you're building real-time data platforms, AI-based decision systems, or simply want to collaborate—I'd love to hear from you!
+I’m actively exploring full-time roles in **Data Engineering**, **Data Analytics**, and **Data Science**.  
+I’m open to remote, hybrid, or onsite opportunities—and **willing to relocate anywhere**.
 
 📧 Email: [sathvik6198@gmail.com](mailto:sathvik6198@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/sathvikc)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sathvikc)  
 
 ---
 
 ### 🔍 Portfolio in Progress
-Stay tuned! I'm actively open-sourcing my projects with clean code, documentation, and visual demos.
+
+Stay tuned—I'm actively open-sourcing projects with clean code, documentation, and visual demos.  
+Visit [github.com/sathvik6198](https://github.com/sathvik6198) for live updates!
