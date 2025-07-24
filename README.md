@@ -12,7 +12,19 @@
 I’m a versatile data professional with **2+ years of experience** working across **Data Engineering**, **Data Science**, and **Data Analytics** domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
 
 With strong foundations in **Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure)**, I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
+---
 
+## 🛠️ Skills Snapshot
+
+- **Languages & Tools**: Python, SQL, R, Shell, Git, Jupyter, REST APIs  
+- **Data Engineering**: PySpark, Airflow, Hive, Snowflake, Databricks, AWS Glue, Redshift  
+- **Analytics & BI**: Power BI, Tableau, Alteryx, Looker, KPI Tracking  
+- **Machine Learning**: scikit-learn, XGBoost, SVM, Clustering, PCA, Regression, Time Series  
+- **AI & LLMs**: GPT-4, LangChain, Prompt Engineering, AI Agents, RAG, NLP  
+- **Cloud Platforms**: AWS (S3, Glue, Lambda, SageMaker, Redshift),  
+  GCP (BigQuery, Vertex AI), Azure (Data Factory, ML, Synapse)  
+- **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Vector DBs (LanceDB)  
+- **MLOps & DevOps**: Docker, CI/CD, GitHub Actions, Model Monitoring, Version Control  
 ---
 
 ## 🚀 Featured Projects
@@ -63,20 +75,20 @@ With strong foundations in **Python, SQL, Spark, and cloud platforms (AWS, GCP, 
 - Applied **time series decomposition**, **ADF test**, and **Ljung-Box residual checks**.  
 - Built plots with **forecast confidence intervals**, RMSE < 27k and MAPE ~0.5%.  
 - Tools: **R (forecast, tseries, ggplot2, tidyverse)**, time series transformations, and differencing.
-
 ---
 
-## 🛠️ Skills Snapshot
+## 📄 Publications
 
-- **Languages & Tools**: Python, SQL, R, Shell, Git, Jupyter, REST APIs  
-- **Data Engineering**: PySpark, Airflow, Hive, Snowflake, Databricks, AWS Glue, Redshift  
-- **Analytics & BI**: Power BI, Tableau, Alteryx, Looker, KPI Tracking  
-- **Machine Learning**: scikit-learn, XGBoost, SVM, Clustering, PCA, Regression, Time Series  
-- **AI & LLMs**: GPT-4, LangChain, Prompt Engineering, AI Agents, RAG, NLP  
-- **Cloud Platforms**: AWS (S3, Glue, Lambda, SageMaker, Redshift),  
-  GCP (BigQuery, Vertex AI), Azure (Data Factory, ML, Synapse)  
-- **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Vector DBs (LanceDB)  
-- **MLOps & DevOps**: Docker, CI/CD, GitHub Actions, Model Monitoring, Version Control  
+### 🍽️ Food Quality Detection and Calorie Estimation Using Machine Learning  
+**Vadlapatla Sathvik**, Prakash R., Teja Sri Venkata S., Gopichand Reddy  
+Published in: *International Research Journal of Engineering and Technology (IRJET)*, Volume 9, Issue 8, August 2022  
+- Proposed a hybrid solution combining **IoT-based spoilage detection** with **machine learning-based calorie estimation**.
+- Developed a Streamlit web application for food image classification and calorie prediction.
+- Implemented hardware components (MQ3 gas sensor, oxygen sensor, NodeMCU) for real-time food freshness alerts.
+- Enabled NGOs and food banks to serve **nutritionally balanced and safe meals** using low-cost automation.
+
+🔗 [View Paper (PDF)](https://www.irjet.net/archives/V9/i8/IRJET-V9I8204.pdf)
+
 
 ---
 
