@@ -49,7 +49,7 @@ With strong foundations in **Python, SQL, Spark, and cloud platforms (AWS, GCP, 
 **Roles:** Data Engineer | AI Engineer  
 - Designed a local **RAG pipeline** using **Ollama**, **LLaMA3**, and **LanceDB** for offline document-based Q&A.  
 - Built modular components for indexing, embedding, querying, and response generation.  
-- Developed CLI for loading documents, querying knowledge base, and performance evaluation.
+- Containerized the entire pipeline using Docker to enable portable deployment and reproducibility across environments.
 
 ---
 
