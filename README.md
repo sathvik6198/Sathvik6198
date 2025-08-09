@@ -34,7 +34,7 @@ I hold an AWS Certified Data Engineer – Associate and Databricks Fundamentals 
 ## 🏆 Certifications
 - AWS Certified Data Engineer – Associate (Aug 2025)
 - Databricks Academy Accreditation – Databricks Fundamentals (Aug 2025)
-- 
+
 ## 🚀 Featured Projects
 
 ### 🧊 Avalanche Analytics – End-to-End Data Engineering & Analytics Platform  
