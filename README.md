@@ -6,6 +6,7 @@
 📫 Reach me at [sathvik6198@gmail.com](mailto:sathvik6198@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sathvikc/) • [GitHub](https://github.com/sathvik6198)
 
+
 ---
 
 ## 🧑‍💻 About Me
@@ -15,6 +16,7 @@ I’m a versatile data professional with 2+ years of experience working across D
 With strong foundations in Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure), I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
 
 I hold an AWS Certified Data Engineer – Associate and Databricks Fundamentals Accreditation, showcasing my ability to design and implement modern, cloud-native data solutions that meet enterprise analytics and AI needs.
+
 ---
 
 ## 🛠️ Skills Snapshot
