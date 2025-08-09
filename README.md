@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sathvik Vadlapatla
 
 🎓 Master of Science in Data Science @ Stevens Institute of Technology  
+🏆 AWS Certified Data Engineer - Associate
 📍 Based in Jersey City, NJ | 🌐 Open to Remote, Hybrid, and Onsite Roles | ✈️ Open to Relocate Anywhere  
 📫 Reach me at [sathvik6198@gmail.com](mailto:sathvik6198@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sathvikc/) • [GitHub](https://github.com/sathvik6198)
@@ -9,9 +10,11 @@
 
 ## 🧑‍💻 About Me
 
-I’m a versatile data professional with **2+ years of experience** working across **Data Engineering**, **Data Science**, and **Data Analytics** domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
+I’m a versatile data professional with 2+ years of experience working across Data Engineering, Data Science, and Data Analytics domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
 
-With strong foundations in **Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure)**, I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
+With strong foundations in Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure), I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
+
+I hold an AWS Certified Data Engineer – Associate and Databricks Fundamentals Accreditation, showcasing my ability to design and implement modern, cloud-native data solutions that meet enterprise analytics and AI needs.
 ---
 
 ## 🛠️ Skills Snapshot
@@ -26,7 +29,10 @@ With strong foundations in **Python, SQL, Spark, and cloud platforms (AWS, GCP, 
 - **Databases**: PostgreSQL, MySQL, Oracle, MongoDB, Vector DBs (LanceDB)  
 - **MLOps & DevOps**: Docker, CI/CD, GitHub Actions, Model Monitoring, Version Control  
 ---
-
+## 🏆 Certifications
+- AWS Certified Data Engineer – Associate (Aug 2025)
+- Databricks Academy Accreditation – Databricks Fundamentals (Aug 2025)
+- 
 ## 🚀 Featured Projects
 
 ### 🧊 Avalanche Analytics – End-to-End Data Engineering & Analytics Platform  
