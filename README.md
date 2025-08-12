@@ -3,7 +3,7 @@
 🎓 Master of Science in Data Science @ Stevens Institute of Technology  
 🏆 AWS Certified Data Engineer - Associate
 📍 Based in Jersey City, NJ | 🌐 Open to Remote, Hybrid, and Onsite Roles | ✈️ Open to Relocate Anywhere  
-📫 Reach me at [sathvik6198@gmail.com](mailto:sathvik6198@gmail.com)  
+📫 Reach me at [sathvikvadlapatla04@gmail.com](mailto:sathvikvadlapatla04@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sathvikc/) • [GitHub](https://github.com/sathvik6198)
 
 
@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a versatile data professional with experience working across Data Engineering, Data Science, and Data Analytics domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
+I’m a versatile data professional with experience working across Gen AI/ML, Data Engineering, Data Science, and Data Analytics domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
 
 With strong foundations in Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure), I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
 
