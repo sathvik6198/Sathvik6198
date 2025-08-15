@@ -4,7 +4,7 @@
 🏆 AWS Certified Data Engineer - Associate
 📍 Based in Jersey City, NJ | 🌐 Open to Remote, Hybrid, and Onsite Roles | ✈️ Open to Relocate Anywhere  
 📫 Reach me at [sathvikvadlapatla04@gmail.com](mailto:sathvikvadlapatla04@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sathvikc/) • [GitHub](https://github.com/sathvik6198)
+🔗 [LinkedIn](https://www.linkedin.com/in/sathvik/) • [GitHub](https://github.com/sathvik6198)
 
 
 ---
