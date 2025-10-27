@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sathvik Vadlapatla
+# 👋 Hi, I'm Sathvik
 
 🎓 Master of Science in Data Science @ Stevens Institute of Technology  
 🏆 AWS Certified Data Engineer - Associate
