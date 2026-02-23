@@ -2,7 +2,7 @@
 
 🎓 Master of Science in Data Science @ Stevens Institute of Technology  
 🏆 AWS Certified Data Engineer - Associate
-📍 Based in Jersey City, NJ | 🌐 Open to Remote, Hybrid, and Onsite Roles | ✈️ Open to Relocate Anywhere  
+🌐 Open to Remote, Hybrid, and Onsite Roles | ✈️ Open to Relocate Anywhere  
 📫 Reach me at [vsathvik02@gmail.com](mailto:vsathvik02@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sathvik/) • [GitHub](https://github.com/sathvik6198)
 
