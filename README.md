@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a versatile data professional with experience working across Gen AI/ML, Data Engineering, Data Science, and Data Analytics domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
+I’m a versatile software and data professional with experience working across Gen AI/ML, Data Engineering, Data Science, and Data Analytics domains. My work spans building scalable ETL pipelines, deploying AI-powered apps, developing real-time analytics platforms, and crafting insightful dashboards that drive strategic decision-making.
 
 With strong foundations in Python, SQL, Spark, and cloud platforms (AWS, GCP, Azure), I specialize in transforming raw data into actionable insights and scalable systems—especially in fast-paced, data-driven environments.
 
