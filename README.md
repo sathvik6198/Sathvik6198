@@ -105,8 +105,6 @@ Published in: *International Research Journal of Engineering and Technology (IRJ
 I’m actively exploring full-time roles in **Data Engineering**, **Data Analytics**, and **Data Science**.  
 I’m open to remote, hybrid, or onsite opportunities—and **willing to relocate anywhere**.
 
-📧 Email: [sathvik6198@gmail.com](mailto:sathvik6198@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sathvikc)  
 
 ---
 
